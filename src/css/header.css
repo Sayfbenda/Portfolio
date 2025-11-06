@@ -13,3 +13,15 @@ header > nav > ul{
     list-style: none;
     gap: 5rem;
 }
+
+header > nav > ul,
+header > nav > div{
+    background-color: white;
+    padding: 1rem;
+    border-radius: 2rem;
+}
+
+header > nav > div{
+    display: flex;
+    gap: 5rem;
+}

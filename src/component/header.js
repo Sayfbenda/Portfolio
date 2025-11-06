@@ -4,17 +4,15 @@ function Header() {
     return (
         <header>
             <nav>
-                <div>
-                    <img src="" alt=""/>
-                    <span>Soufiane</span>
-                </div>
                 <ul>
-                    <li>Menu</li>
-                    <li>Menu</li>
-                    <li>Menu</li>
-                    <li>Menu</li>
+                    <li>Sayf</li>
+                    <li>Projetcs</li>
+                    <li>About</li>
                 </ul>
-                <button>Test</button>
+                <div>
+                    <button>CV</button>
+                    <button>Mail</button>
+                </div>
             </nav>
         </header>
     )
